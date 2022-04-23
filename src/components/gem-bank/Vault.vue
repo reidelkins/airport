@@ -1,17 +1,6 @@
 <template>
   <!--control buttons-->
-  <div class="mb-10 flex justify-center">
-    <button
-      v-if="
-        (toWalletNFTs && toWalletNFTs.length) ||
-        (toVaultNFTs && toVaultNFTs.length)
-      "
-      class="refreshButton connectText is-primary mb-5 buttonBorder"
-      @click="moveNFTsOnChain"
-    >
-      Finalize board/disembark! 
-    </button>
-    
+  <div class="mb-10 flex justify-center">  
     <slot />
   </div>
 
@@ -241,6 +230,7 @@ export default defineComponent({
         //empty selected walelt
         selectedWalletNFTs.value = [];
       }
+      setTimeout(() => {moveNFTsOnChain()}, 2000);
     };
 
     //todo jam into single tx

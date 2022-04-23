@@ -58,7 +58,7 @@
       <br>
       <div class="w-full text-center words">
         <button class="connectButton is-primary buttonBorder" style="border-color:black" @click="initFarmer">
-          NO ACCOUNT FOR THIS ADDRESS<br> CLICK HERE TO MAKE ONE
+          NO STAKING ACCOUNT FOR THIS ADDRESS<br> CLICK HERE TO MAKE ONE
         </button>
       </div>
     </div>

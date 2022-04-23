@@ -20,9 +20,8 @@
       <h1 class="mt-5 mainWords text-xl md:text-2xl">Welcome to Mile High Airlines</h1>    
       <p class="mt-10 titleWords text-lg md:text-xl">How Do My Apes Board?</p>
       <p class="mt-2  words ">1. Click on the "Boarding Apes" button above</p>
-      <p class="mt-2  words">2. With the Terminal, Click on Each Ape That Would Like To Board</p>
-      <p class="mt-2  words">3. Click on the Arrow Pointing to the Right</p>
-      <p class="mt-2  words">4. Click on "Board/Deboard Selected Apes"</p>
+      <p class="mt-2  words">2. Within the Terminal, Click on Each Ape That Would Like To Board</p>
+      <p class="mt-2  words">3. Then Click on the Button that says "Board"</p>
       <p class="mt-2  words">5. You will have to Approve a Transaction for Each Boarding Ape</p>
 
 
