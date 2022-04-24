@@ -17,6 +17,9 @@
       <a href="https://www.instagram.com/milehighapeclub/" target="_blank">
         <img src="./../../assets/instagram.png" />
       </a>
+      <a href="https://twitter.com/InceptionAIO" target="_blank">
+        <img  src="./../../assets/logo_white.svg" />
+      </a>
     </div>
     
     
