@@ -9,7 +9,7 @@ export enum Cluster {
 }
 
 const clusterURLMapping = {
-  mainnet: process.env.VUE_APP_MAINNET_URL || 'https://cold-polished-field.solana-mainnet.quiknode.pro/145499d7064e5037d07cd6b2127ce1395ba5fdc0/',
+  mainnet: process.env.VUE_APP_MAINNET_URL || 'https://withered-silent-water.solana-mainnet.quiknode.pro/684a30179d6e080cf86744b795eb876a98761d14/',
   devnet: process.env.VUE_APP_DEVNET_URL || 'https://api.devnet.solana.com',
   testnet: process.env.VUE_APP_TESTNET_URL || 'https://api.testnet.solana.com',
   localnet: process.env.VUE_APP_LOCALNET_URL || 'http://localhost:8899',
